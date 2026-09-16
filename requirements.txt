@@ -1,0 +1,7 @@
+# On CUDA machines install torch/torchvision with:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+numpy
+matplotlib
+tqdm
